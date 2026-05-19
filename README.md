@@ -2,7 +2,7 @@
 
 Open-source scripts for estimating **bivariate rainfall–sea level return periods** in three megacity bay areas:
 
-- **GBA** — Greater Bay Area estuary (mainland China + Hong Kong)
+- **GBA** — Greater Bay Area Bay
 - **San Francisco** — San Francisco Bay
 - **Tokyo** — Tokyo Bay
 
